@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(241, 146, 234);
+}
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: 700;
+    font-family: Impact;
+}
+
+button {
+    width: 12.5rem;
+    height: 3.75rem;
+    background-color: rgb(160, 20, 118);
+    color: rgb(255, 255, 255);
+    border: 0;
+    border-radius: .625rem;
+    font-size: large;
+}
+
+p{
+    font-size: 2.1875rem;
+}
+
+button:hover{
+    background-color: rgb(159, 25, 174);
+    color: rgb(20, 19, 19);
+}
